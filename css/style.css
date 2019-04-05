@@ -1,0 +1,35 @@
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+#heading{
+  font-family: "Oswald";
+  background-color: black;
+  color: white;
+    }
+button{
+  width: 2.6vw;
+  margin: 5px;
+}
+.big-button{
+width: 95px;
+}
+  #Calci{
+   background-color: black;
+    width: 250px;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+#CalcOutput{
+  color: white;
+  background-color: grey;
+  width: 250px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  height: 50px;
+  padding-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  height: 80px;
+}
+#display{
+  margin-right: 200px;
+}
